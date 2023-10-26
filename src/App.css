@@ -1,0 +1,230 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#hedding{
+  background-color: rgb(150,229,174);
+  height: 120px;
+  font-size: x-large;
+}
+#hedding h1{
+  position: relative;
+  top: 15px;
+  left: 55px;
+  color:black;
+  font-size: xxx-large;
+  font-family: 'Lilita One', sans-serif;
+}
+#hedbutton{
+  position: relative;
+  top: -40px;
+  left: 1330px;
+  font-size:large;
+  font-weight: 650;
+  border: solid 0px;
+  margin-top: 20px;
+  background-color:rgb(150,229,174);
+  
+}
+#sidebar{
+  position: relative;
+  top: 20px;
+  left: 20px;
+  width: 80px;
+  height:570px;
+  background-color:rgb(150,229,174) ;
+  border-radius: 20px;
+}
+#sidebar button{
+  width: 50px;
+  height:40px;
+  margin-top: 20px;
+  position: relative;
+  top: 15px;
+  left: 15px;
+  background-color:rgb(150,229,174);
+  border: solid 0px;
+  font-size: xx-large;
+  color: black;
+}
+
+#log{
+  border-radius: 20px;
+  position: relative;
+  top: -450px;
+  left: 600px;
+  height: 350px;
+  width: 400px;
+  background-color: rgb(150,229,174);
+}
+#log input{
+  width: 200px;
+  height: 40px;
+  border-radius: 10px;
+  position: relative;
+  top: 30px;
+  left: 95px;
+  border: solid 1px;
+}
+#log h1{
+  color: black;
+  text-align: center;
+  position: relative;
+  top: 15px;
+  
+}
+#loginregister{
+  position: relative;
+  top: 50px;
+  left: 165px;
+  background-color: rgb(150,229,174);
+  border: solid 0px;
+  color: black;
+  font-size: large;
+  
+}
+#home{
+  position: relative;
+  top:-430px;
+  left:350px;
+}
+#home h1{
+  font-size: xxx-large;
+}
+#home button{
+  height: 50px;
+  width: 200px;
+  background-color: rgb(150,229,174);
+  color: black;
+  border-radius: 20px;
+  border: solid 0px;
+  font-size: large;
+  position: relative;
+  top: 20px;
+}
+#about{
+  font-family:'Times New Roman';
+  font-size:x-large;
+  position: relative;
+  top:-550px;
+  left: 150px;
+}
+#about2{
+  font-size:x-large;
+  position: relative;
+  left: 40px;
+  top: 20px;
+}
+#about2 p{
+  position: relative;
+  left: 30px;
+  top: -700px;
+  font-size:x-large;
+  
+}
+#aboutregi{
+  height: 60px;
+  width: 200px;
+  background-color:rgb(150,229,174);
+  border: solid 0px;
+  border-radius: 25px;
+  position: relative;
+  top: -630px;
+  left: 80px;
+  font-size: x-large;
+  color: black;
+}
+#homeimg{
+  height: 600px;
+  width: 600px;
+  position: relative;
+  top: -140px;
+  left: 450px;
+}
+#hometext{
+  position: relative;
+  top: -580px;
+  left: -80px;
+}
+#aboutimg{
+  height: 700px;
+  width: 900px;
+  position: relative;
+  left: 600px;
+  top: -100px;
+
+}
+#g1 input{
+  width: 130px;
+  position: relative;
+  left: 130px;
+}
+#rig{
+  border-radius: 20px;
+  position: relative;
+  top: -450px;
+  left: 600px;
+  height: 600px;
+  width: 400px;
+  background-color: rgb(150,229,174);
+}
+#rig input{
+  width: 210px;
+  height: 40px;
+  border-radius: 10px;
+  position: relative;
+  top: 50px;
+  left: 95px;
+  border: solid 1px;
+}
+#rig h1{
+  color: black;
+  text-align: center;
+  position: relative;
+  top: 35px;
+  
+}
+#g2 input{
+  width: 130px;
+  position: relative;
+  left: 130px;
+  top: 80px;
+}
+#registerlogin{
+  position: relative;
+  top: 110px;
+  left: 165px;
+  background-color: rgb(150,229,174);
+  border: solid 0px;
+  color: black;
+  font-size: large;
+}
+#hometwoimg{
+  height: 500px;
+  width: 500px;
+  position: relative;
+  top: 100px;
+  left: -150px;
+}
+#homet{
+  position: relative;
+  top:400px;
+  left: 450px;
+}
+#contimg{
+  width: 600px;
+  height: 600px;
+  position: relative;
+  top: -500px;
+  left: 650px;
+}
+#myDropdown{
+  width: 210px;
+  height: 40px;
+  position: relative;
+  left: 95px;
+  top: 50px;
+  border-radius: 10px;
+}
