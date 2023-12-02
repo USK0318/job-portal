@@ -37,3 +37,4 @@ class LogoutView(APIView):
     def post(self, request):
         request.auth.delete()
         return Response(status=status.HTTP_204_NO_CONTENT)
+#keerthi
